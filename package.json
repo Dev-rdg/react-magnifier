@@ -19,9 +19,6 @@
 	"repository": "github:samuelmeuli/react-magnifier",
 	"homepage": "https://react-magnifier.samuelmeuli.com",
 	"license": "MIT",
-	"files": [
-		"./dist"
-	],
 	"main": "./dist/Magnifier.js",
 	"module": "./dist/Magnifier.es.js",
 	"types": "./dist/Magnifier.d.ts",
