@@ -1,6 +1,6 @@
 {
 	"name": "react-magnifier",
-	"version": "3.0.4",
+	"version": "3.1.0",
 	"description": "React image zoom component",
 	"keywords": [
 		"react",
@@ -20,7 +20,7 @@
 	"homepage": "https://react-magnifier.samuelmeuli.com",
 	"license": "MIT",
 	"files": [
-		"./dist/*"
+		"./dist"
 	],
 	"main": "./dist/Magnifier.js",
 	"module": "./dist/Magnifier.es.js",
