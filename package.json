@@ -20,7 +20,7 @@
 	"homepage": "https://react-magnifier.samuelmeuli.com",
 	"license": "MIT",
 	"files": [
-		"./dist/"
+		"./dist/*"
 	],
 	"main": "./dist/Magnifier.js",
 	"module": "./dist/Magnifier.es.js",
